@@ -1,2 +1,2 @@
-# Multi-particle generator in GEANT4
-Multi-particle generator based on atmospherical protons as well as alphas.
+# Multi-particle generator in GEANT4 (Non-tested)
+Multi-particle generator based on atmospherical protons as well as atmospherical alphas.
